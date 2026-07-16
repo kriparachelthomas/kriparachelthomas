@@ -1,206 +1,97 @@
+<!-- ========================= HERO SECTION ========================= -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kriparachelthomas/kriparachelthomas/main/assets/banner.png" alt="Kripa Rachel Thomas Banner" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Kripa Rachel Thomas</h1>
 
 <h3 align="center">
-Data Analyst • Business Intelligence Enthusiast
+Data Analyst • Business Intelligence Enthusiast • Lifelong Learner
 </h3>
 
 <p align="center">
-Passionate about turning raw data into meaningful business insights.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Data+Analyst;Business+Intelligence+Enthusiast;SQL+%7C+Python+%7C+Power+BI;Transforming+Data+into+Business+Insights" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/kriparachelthomas"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/kripa-rachel-thomas/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:thomaskriparachel25@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/kriparachelthomas">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kriparachelthomas&label=Profile%20Views&color=2563EB&style=for-the-badge" />
 </p>
 
 ---
 
 # 👩‍💻 About Me
 
-🎓 Computer Science Engineering Graduate
+<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWw2M3J2aW5wN2o0c2Q5NnA4Y3F6aXQ2eXBqMWI0MnNub2VjbnVxNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMt9638dO8dftAjtco/giphy.gif">
 
-🎓 Postgraduate Certificate in Big Data Analytics
+🎓 **Bachelor of Technology** in Computer Science Engineering
 
-💼 Former Imaging Operations Specialist at Iron Mountain
+🎓 **Postgraduate Certificate** in Big Data Analytics
 
-📊 Passionate about Data Analytics, Business Intelligence, and Data Visualization
+💼 Former **Imaging Operations Specialist** at **Iron Mountain**
 
-🌱 Currently strengthening my skills in SQL, Python, Power BI, and building real-world analytics projects.
+📊 Passionate about transforming raw data into actionable business insights.
 
-🎯 Seeking opportunities as a **Data Analyst**, **Business Intelligence Analyst**, or **Entry-Level Data Engineer**.
+🌱 Currently building end-to-end analytics projects using **SQL, Python, Power BI, and Excel**.
+
+🎯 Actively seeking opportunities as a **Data Analyst**, **Business Intelligence Analyst**, or **Entry-Level Data Engineer**.
+
+💡 I enjoy solving business problems through data analysis, visualization, and storytelling.
+
+<br clear="right"/>
 
 ---
 
 # 🛠️ Tech Stack
 
-### Languages
+### 👨‍💻 Languages
 
 <p>
-
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-### Data Analytics
+### 📊 Data Analytics
 
 <p>
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
-### Tools
+### 🛠️ Tools
 
 <p>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 ---
 
-# 💼 Professional Experience
+# 📈 Current Focus
 
-## Imaging Operations Specialist
-
-**Iron Mountain**
-
-- Managed **200+ client files monthly** while maintaining **100% accuracy** and consistently meeting SLA requirements.
-
-- Streamlined records management processes, reducing issue resolution time by **20%**.
-
-- Coordinated with cross-functional teams to improve operational workflow efficiency.
-
-- Performed quality assurance on confidential business records while ensuring compliance and data integrity.
+- 📊 Data Analytics
+- 📈 Business Intelligence
+- 🧹 Data Cleaning & Transformation
+- 📉 Exploratory Data Analysis (EDA)
+- 📊 Dashboard Development
+- 📚 Continuous Learning
 
 ---
-
-# 🚀 Featured Projects
-
-## 🍽️ Zomato Restaurant Clustering & Sentiment Analysis
-
-Restaurant clustering, customer sentiment analysis, pricing trends, and interactive Power BI dashboard.
-
-**Tech Stack**
-
-SQL • Python • Power BI • Machine Learning
-
-🔗 Repository
-
-https://github.com/kriparachelthomas/Zomato-Restaurant-Clustering-Sentiment-Analysis
-
----
-
-## 🛒 Online Retail RFM Analytics
-
-Customer segmentation using Recency, Frequency, and Monetary analysis for targeted marketing.
-
-**Tech Stack**
-
-SQL • Python • Power BI
-
-🔗 Repository
-
-https://github.com/kriparachelthomas/online-retail-rfm-analytics
-
----
-
-## 💰 Global Developer Salary Analysis
-
-Analyzed salary trends by country, technology, education, and experience using interactive dashboards.
-
-**Tech Stack**
-
-Python • SQL • Power BI
-
-🔗 Repository
-
-https://github.com/kriparachelthomas/global-developer-salary-analysis
-
----
-
-# 📚 Currently Learning
-
-- Advanced SQL
-- Power BI Dashboard Design
-- Data Storytelling
-- ETL Concepts
-- Data Engineering Fundamentals
-
----
-
-# 🎓 Education
-
-### 🎓 Postgraduate Certificate
-
-Big Data Analytics
-
-Lambton College
-
----
-
-### 🎓 Bachelor of Technology
-
-Computer Science & Engineering
-
-APJ Abdul Kalam Technological University
-
----
-
-# 📜 Certifications
-
-- Google Data Analytics Professional Certificate
-
-- SQL – MySQL for Data Analytics and Business Intelligence (Udemy)
-
----
-
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kriparachelthomas&theme=github-dark"/>
-
-</p>
-
----
-
-# 🌱 Career Goal
-
-I enjoy solving business problems through data and aspire to build scalable analytics solutions that enable better decision-making. My long-term goal is to grow into a Data Engineer while continuing to strengthen my analytics and business intelligence expertise.
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/kripa-rachel-thomas/">
-
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-
-</a>
-
-<a href="thomaskriparachel25@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"/>
-
-</a>
-
-</p>
-
----
-
-⭐ Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
