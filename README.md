@@ -164,15 +164,6 @@ APJ Abdul Kalam Technological University
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kriparachelthomas&show_icons=true&theme=github_dark"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriparachelthomas&layout=compact&theme=github_dark"/>
-
-</p>
 
 ---
 
@@ -196,13 +187,13 @@ I enjoy solving business problems through data and aspire to build scalable anal
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/kripa-rachel-thomas/">
 
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="thomaskriparachel25@gmail.com">
 
 <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"/>
 
