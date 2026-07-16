@@ -40,15 +40,20 @@ With a background in Computer Science and Big Data Analytics, I pair strong tech
 
 ## 🔹 Featured Projects
 
-### 🛒 [Online Retail Analytics & ETL Pipeline](https://github.com/kriparachelthomas)
-An end-to-end data engineering and analytics pipeline utilizing the Online Retail II dataset to analyze customer transaction patterns.
-* **Tools:** Python (Pandas), SQL, Google BigQuery, Tableau
-* **Highlight:** Programmed Python scripts to clean messy transaction files, modeled the clean data in BigQuery, and built a dashboard highlighting key customer cohorts and purchasing behaviors.
+### 🍲 [Zomato Restaurant Clustering & Sentiment Analysis](https://github.com/kriparachelthomas/Zomato-Restaurant-Clustering-Sentiment-Analysis)
+An unsupervised machine learning and Natural Language Processing (NLP) project segmenting Hyderabad restaurants and analyzing customer feedback.
+* **Tools:** Python (Pandas, Scikit-Learn, NLTK), K-Means, LDA (Topic Modeling), WordCloud
+* **Highlight:** Developed K-Means clustering to group restaurants by cuisines, costs, and reviews, and executed Sentiment Analysis on customer reviews to extract actionable business insights.
 
-### 📈 [Operations & SLA Performance Tracker](https://github.com/kriparachelthomas)
-An operational KPI dashboard designed to monitor record-processing performance, ticket resolution speeds, and compliance rates.
-* **Tools:** MS SQL Server, Power BI, Excel
-* **Highlight:** Created a relational schema to track operations workloads, calculating real-time throughput metrics and highlighting process bottlenecks to improve SLA outcomes.
+### 🛒 [Online Retail RFM Customer Segmentation](https://github.com/kriparachelthomas/online-retail-rfm-analytics)
+A data-driven customer segmentation project using the classic RFM (Recency, Frequency, Monetary) framework to classify purchasing behaviors.
+* **Tools:** Python (Pandas, Seaborn), SQL, Cohort Analysis, RFM Modeling
+* **Highlight:** Programmed an automated RFM scoring pipeline to segment customers into actionable groups (e.g., "Champions," "At Risk"), enabling targeted marketing strategies to increase retention.
+
+### 💻 [Global Developer Salary & Industry Analysis](https://github.com/kriparachelthomas/global-developer-salary-analysis)
+An exploratory data analysis project analyzing global compensation trends, demographics, and technology popularity among software developers.
+* **Tools:** Python (Pandas, NumPy, Matplotlib, Seaborn), Data Cleaning & Wrangling
+* **Highlight:** Cleaned and analyzed high-dimensional survey datasets to uncover key salary drivers (experience, location, education) and visualized the highest-paying technical stacks globally.
 
 ---
 
