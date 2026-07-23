@@ -1,6 +1,6 @@
 # Hi, I'm Kripa Rachel Thomas 👋
 
-### Business Intelligence & Data Analytics | SQL • Power BI • Python • Excel
+### Data Analytics & Business Intelligence | SQL • Power BI • Python • Excel
 
 I’m a data-driven analyst passionate about transforming raw data into structured, meaningful insights that drive operational efficiency, quality assurance, and smarter business decisions. 
 
