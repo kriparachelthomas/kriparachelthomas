@@ -1,97 +1,66 @@
-<!-- ========================= HERO SECTION ========================= -->
+# Hi, I'm Kripa Rachel Thomas 👋
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kriparachelthomas/kriparachelthomas/main/assets/banner.png" alt="Kripa Rachel Thomas Banner" width="100%">
-</p>
+### Business Intelligence & Data Analytics | SQL • Power BI • Python • Excel
 
-<h1 align="center">Hi 👋, I'm Kripa Rachel Thomas</h1>
+I’m a data-driven analyst passionate about transforming raw data into structured, meaningful insights that drive operational efficiency, quality assurance, and smarter business decisions. 
 
-<h3 align="center">
-Data Analyst • Business Intelligence Enthusiast • Lifelong Learner
-</h3>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Data+Analyst;Business+Intelligence+Enthusiast;SQL+%7C+Python+%7C+Power+BI;Transforming+Data+into+Business+Insights" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kripa-rachel-thomas/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:thomaskriparachel25@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/kriparachelthomas">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kriparachelthomas&label=Profile%20Views&color=2563EB&style=for-the-badge" />
-</p>
+With a background in Computer Science and Big Data Analytics, I pair strong technical foundations with a rigorous eye for detail. Previously, in my role at Iron Mountain, I managed high-volume enterprise digital records and optimized client workflows under strict SLAs, ensuring data integrity at every step. My analytics projects focus on building clean ETL pipelines, relational database modeling, and interactive visual reporting.
 
 ---
 
-# 👩‍💻 About Me
+## 🔹 What I Do
 
-<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWw2M3J2aW5wN2o0c2Q5NnA4Y3F6aXQ2eXBqMWI0MnNub2VjbnVxNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMt9638dO8dftAjtco/giphy.gif">
-
-🎓 **Bachelor of Technology** in Computer Science Engineering
-
-🎓 **Postgraduate Certificate** in Big Data Analytics
-
-💼 Former **Imaging Operations Specialist** at **Iron Mountain**
-
-📊 Passionate about transforming raw data into actionable business insights.
-
-🌱 Currently building end-to-end analytics projects using **SQL, Python, Power BI, and Excel**.
-
-🎯 Actively seeking opportunities as a **Data Analyst**, **Business Intelligence Analyst**, or **Entry-Level Data Engineer**.
-
-💡 I enjoy solving business problems through data analysis, visualization, and storytelling.
-
-<br clear="right"/>
+* **Extract & Model Data** using optimized SQL queries, window functions, and database schemas.
+* **Build Interactive Dashboards** in Power BI to track key operational and business metrics.
+* **Automate Data Workflows & Cleaning** using Python (Pandas) to turn messy, real-world data into clean, structured tables.
+* **Perform Quality Assurance & Audit Checks** to guarantee total data integrity and compliance with organizational standards.
+* **Collaborate with Teams** to identify workflow bottlenecks and streamline processes.
 
 ---
 
-# 🛠️ Tech Stack
+## 🔹 Core Skills
 
-### 👨‍💻 Languages
+### **Analytics & Tools**
+* **SQL:** Data extraction, joins, CTEs, subqueries, database modeling (MySQL, MS SQL Server)
+* **Power BI & Excel:** DAX, interactive dashboard design, automated reporting frameworks, KPI tracking
+* **Python:** Pandas, NumPy, Exploratory Data Analysis (EDA), data cleaning
+* **Data Pipelines & Tools:** ETL, Git/GitHub, Jupyter Notebooks
 
-<p>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-### 📊 Data Analytics
-
-<p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-</p>
-
-### 🛠️ Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
+### **Business & Operations Focus**
+* Operational Workflow Optimization & SLA Tracking
+* Data Quality Assurance & Compliance
+* Customer & Retail Performance Analytics
+* Multi-functional Team Collaboration
 
 ---
 
-# 📈 Current Focus
-
-- 📊 Data Analytics
-- 📈 Business Intelligence
-- 🧹 Data Cleaning & Transformation
-- 📉 Exploratory Data Analysis (EDA)
-- 📊 Dashboard Development
-- 📚 Continuous Learning
+> I hold a **Postgraduate Certificate in Big Data Analytics** from Lambton College and a **Bachelor of Technology (Hons) in Computer Science and Engineering** from APJ Abdul Kalam Technological University.
 
 ---
+
+## 🔹 Featured Projects
+
+### 🍲 [Zomato Restaurant Clustering & Sentiment Analysis](https://github.com/kriparachelthomas/Zomato-Restaurant-Clustering-Sentiment-Analysis)
+An unsupervised machine learning and Natural Language Processing (NLP) project segmenting Hyderabad restaurants and analyzing customer feedback.
+* **Tools:** Python (Pandas, Scikit-Learn, NLTK), K-Means, LDA (Topic Modeling), WordCloud
+* **Highlight:** Developed K-Means clustering to group restaurants by cuisines, costs, and reviews, and executed Sentiment Analysis on customer reviews to extract actionable business insights.
+
+### 🛒 [Online Retail RFM Customer Segmentation](https://github.com/kriparachelthomas/online-retail-rfm-analytics)
+A data-driven customer segmentation project using the classic RFM (Recency, Frequency, Monetary) framework to classify purchasing behaviors.
+* **Tools:** Python (Pandas, Seaborn), SQL, Cohort Analysis, RFM Modeling
+* **Highlight:** Programmed an automated RFM scoring pipeline to segment customers into actionable groups (e.g., "Champions," "At Risk"), enabling targeted marketing strategies to increase retention.
+
+### 💻 [Global Developer Salary & Industry Analysis](https://github.com/kriparachelthomas/global-developer-salary-analysis)
+An exploratory data analysis project analyzing global compensation trends, demographics, and technology popularity among software developers.
+* **Tools:** Python (Pandas, NumPy, Matplotlib, Seaborn), Data Cleaning & Wrangling
+* **Highlight:** Cleaned and analyzed high-dimensional survey datasets to uncover key salary drivers (experience, location, education) and visualized the highest-paying technical stacks globally.
+
+---
+
+## 🔹 Connect with Me
+
+* **Email:** [thomaskriparachel25@gmail.com](mailto:thomaskriparachel25@gmail.com)
+* **LinkedIn:** [linkedin.com/in/kripa-rachel-thomas](https://www.linkedin.com/in/kripa-rachel-thomas)
+
+---
+*Thank you for visiting! Feel free to explore my repositories below to see my code in action.*
